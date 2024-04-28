@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-generator-using-nodejs",
+  "version": "1.0.0",
+  "description": "Qr generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "qr",
+    "scan"
+  ],
+  "author": "Ashika A",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "qr-image": "^3.2.0"
+  }
+}
